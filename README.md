@@ -1,6 +1,8 @@
 # Chat ICT - Text Image Scanner
 
 웹 기반 OCR(Text Scanner) 서비스로, 이미지 또는 PDF 파일에서 텍스트를 추출하고 음성으로 재생할 수 있는 기능을 제공합니다.
+
+<br><br><br>
 ![스크린샷 2025-05-25 221115](https://github.com/user-attachments/assets/b008c0a1-b127-4d98-8e8e-a70d79f8c2ee)
 
 
@@ -8,7 +10,11 @@
 
 ## 📌 주요 기능
 
+<br><br>
+
 ![스크린샷 2025-05-25 221201](https://github.com/user-attachments/assets/784e7a9d-2e63-4bcc-bb43-fbccd5ffea1d)
+
+<br><br>
 
 
 ### ✅ 1. 이미지 업로드 및 OCR 인식
