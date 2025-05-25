@@ -1,10 +1,15 @@
 # Chat ICT - Text Image Scanner
 
 웹 기반 OCR(Text Scanner) 서비스로, 이미지 또는 PDF 파일에서 텍스트를 추출하고 음성으로 재생할 수 있는 기능을 제공합니다.
+![스크린샷 2025-05-25 221115](https://github.com/user-attachments/assets/b008c0a1-b127-4d98-8e8e-a70d79f8c2ee)
+
 
 ---
 
 ## 📌 주요 기능
+
+![스크린샷 2025-05-25 221201](https://github.com/user-attachments/assets/784e7a9d-2e63-4bcc-bb43-fbccd5ffea1d)
+
 
 ### ✅ 1. 이미지 업로드 및 OCR 인식
 - JPG, PNG 등의 이미지 파일을 업로드하면 `Tesseract.js`를 통해 한글 + 영어 텍스트 인식
@@ -40,24 +45,7 @@
 
 ## 🌐 배포 URL
 
-👉 [https://gd000908.github.io/Chat-ICT/](https://gd000908.github.io/Chat-ICT/)
-
----
-
-## 📂 프로젝트 구조
-
-Chat-ICT/
-├── index.html # 메인 페이지
-├── README.md
-├── image/ # 프로젝트에 사용되는 아이콘 및 이미지
-│ ├── ocr-icon.png
-│ ├── upload-icon.png
-│ ├── pdf-upload-icon.png
-│ ├── copy-icon.png
-│ ├── play-icon.png
-│ ├── stop-icon.png
-│ └── anu.gif
-
+👉 [[https://gd000908.github.io/Chat-ICT/](https://gd000908.github.io/Chat-ICT/)](https://gd000908.github.io/Chat-ICT/)
 
 
 ---
@@ -70,9 +58,7 @@ Chat-ICT/
 4. 복사 버튼 클릭 시 텍스트 클립보드 복사
 5. 음성 재생 버튼으로 텍스트를 읽을 수 있음 (언어 자동 감지)
 
----
 
-## 📝 라이선스
 
 MIT License  
 본 프로젝트에서 사용된 아이콘 및 이미지의 저작권은 각 제작자에게 있으며, 비상업적 목적의 사용만을 권장합니다.
