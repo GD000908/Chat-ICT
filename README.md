@@ -1,8 +1,3 @@
-물론입니다! 아래는 **한 번에 복사 가능한 `README.md` 전체 내용**이며, 프로젝트의 **상세 기능, 사용 기술 언어, 실행 방법** 등을 포함한 완성본입니다.
-
----
-
-```markdown
 # Chat ICT - Text Image Scanner
 
 웹 기반 OCR(Text Scanner) 서비스로, 이미지 또는 PDF 파일에서 텍스트를 추출하고 음성으로 재생할 수 있는 기능을 제공합니다.
@@ -51,21 +46,19 @@
 
 ## 📂 프로젝트 구조
 
-```
-
 Chat-ICT/
-├── index.html                # 메인 페이지
+├── index.html # 메인 페이지
 ├── README.md
-├── image/                    # 프로젝트에 사용되는 아이콘 및 이미지
-│   ├── ocr-icon.png
-│   ├── upload-icon.png
-│   ├── pdf-upload-icon.png
-│   ├── copy-icon.png
-│   ├── play-icon.png
-│   ├── stop-icon.png
-│   └── anu.gif
+├── image/ # 프로젝트에 사용되는 아이콘 및 이미지
+│ ├── ocr-icon.png
+│ ├── upload-icon.png
+│ ├── pdf-upload-icon.png
+│ ├── copy-icon.png
+│ ├── play-icon.png
+│ ├── stop-icon.png
+│ └── anu.gif
 
-```
+
 
 ---
 
@@ -84,9 +77,4 @@ Chat-ICT/
 MIT License  
 본 프로젝트에서 사용된 아이콘 및 이미지의 저작권은 각 제작자에게 있으며, 비상업적 목적의 사용만을 권장합니다.
 
-```
 
----
-
-이제 복사해서 `README.md` 파일에 그대로 붙여넣기만 하면 됩니다.
-필요하면 `한글/영문 혼합 버전`, `전부 한글`, `전부 영어` 버전도 만들어드릴 수 있어요.
